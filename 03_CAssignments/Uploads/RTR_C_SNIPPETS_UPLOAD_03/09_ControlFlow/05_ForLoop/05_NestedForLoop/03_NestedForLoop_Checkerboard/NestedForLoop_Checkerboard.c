@@ -16,7 +16,7 @@ int main(void)
                 printf(" ");
             
             if( ask_c == 1)
-                printf("* ");
+                printf("_ ");
         }
         printf("\n\n");
     }
